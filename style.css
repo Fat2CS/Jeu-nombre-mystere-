@@ -28,7 +28,7 @@ label {
 
 input {
   width: 5vw;
-
+  border: solid #ffbe0b 4px;
   border-radius: 12px 0 12px 0;
 }
 #btn {
@@ -43,7 +43,7 @@ input {
   height: 8vh;
   background-color: #ff006e;
   border-radius: 12px 0px 12px 0px;
-  color: #3a86ff;
+  color: #ffbe0b;
   font-size: 20px;
   border: solid 2px #ffbe0b;
 }
